@@ -3,10 +3,10 @@ PTTPoliceRadio, But more configurable.
 
 
 
-```Installation```
+**Installation**
 
-Put the blu-radio folder in your Resources folder. 
+```Put the blu-radio folder in your Resources folder```. 
 
-Then add 
+Then add
 
-```Ensure blu-radio``` to your server.cfg file.
+```ensure blu-radio``` to your server.cfg file.
